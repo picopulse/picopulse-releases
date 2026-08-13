@@ -1,6 +1,6 @@
 {
   "version": "0.18.0",
   "url": "https://github.com/picopulse/picopulse-releases/releases/download/v0.18.0/PicoPulseCare_Setup.exe",
-  "notes": "피코스타트 통합 + GitHub 배포 전환",
+  "notes": "UI 아이콘 개선 + 보안 강화 + 진단 이모지 변경",
   "sizeMB": 34.1
 }
