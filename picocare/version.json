@@ -1,6 +1,6 @@
 {
-  "version": "0.19.0",
-  "url": "https://github.com/picopulse/picopulse-releases/releases/download/v0.19.0/PicoPulseCare_Setup.exe",
-  "notes": "RX 모델 지원 추가 — 모델 자동 인식(RX 오판 수정)·RX 전용 드라이버 원클릭·RX FAQ",
+  "version": "0.20.0",
+  "url": "https://github.com/picopulse/picopulse-releases/releases/download/v0.20.0/PicoPulseCare_Setup.exe",
+  "notes": "복구센터에 한글 글꼴 자동 설치 추가 (한글 깨짐 해결)",
   "sizeMB": 34.1
 }
