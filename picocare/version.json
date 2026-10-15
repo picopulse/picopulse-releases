@@ -1,6 +1,7 @@
 {
-  "version": "0.20.0",
-  "url": "https://github.com/picopulse/picopulse-releases/releases/download/v0.20.0/PicoPulseCare_Setup.exe",
-  "notes": "복구센터에 한글 글꼴 자동 설치 추가 (한글 깨짐 해결)",
-  "sizeMB": 34.1
+  "version": "0.21.0",
+  "url": "https://github.com/picopulse/picopulse-releases/releases/download/v0.21.0/PicoCare_Setup.exe",
+  "notes": "전면 개편 - 증상별 문제 해결 14가지, 진단 리포트 보강, 새 디자인, 설치 화면 개선",
+  "sizeMB": 34.4,
+  "sha256": "58d08c5bbf90a9d28ba0b3c5fbf800038818c2159d0d10b1224715be4218b304"
 }
