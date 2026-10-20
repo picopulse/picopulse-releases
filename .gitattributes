@@ -1,0 +1,3 @@
+# 피코케어 원격 매니페스트 — 서명이 바이트 단위라 줄바꿈을 바꾸지 않는다(release.ps1)
+picocare/*.json -text
+picocare/*.minisig -text

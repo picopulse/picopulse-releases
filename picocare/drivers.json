@@ -1,0 +1,224 @@
+{
+  "kind": "drivers",
+  "AX": [
+    {
+      "type": "pack",
+      "name": "인텔 그래픽·칩셋 드라이버",
+      "keyword": "uhd graphics",
+      "file": "ax-gpu-chipset.zip",
+      "sizeMB": 785,
+      "url": "https://drive.usercontent.google.com/download?id=1PdzTRWeNR2fr-xXj3sXk7Y8l--efPNU2&export=download&confirm=t",
+      "desc": "그래픽·칩셋 통합 — 화면·성능 문제 시 우선 설치",
+      "version": "32.0.101.7082",
+      "clean": "display",
+      "sha256": "74cca5f2272fc9cc6f674332b8ddbef795c48fc3e84f544980e15814d1baab2b"
+    },
+    {
+      "type": "pack",
+      "name": "무선랜·블루투스 드라이버",
+      "keyword": "wi-fi|wireless|wlan|802.11|bluetooth",
+      "file": "ax-wifi-bt.zip",
+      "sizeMB": 6,
+      "url": "https://drive.usercontent.google.com/download?id=1SpQOSZ_S2L0Z7yyhizwm3Z83kmqDWiYR&export=download&confirm=t",
+      "desc": "와이파이·블루투스 연결 안 됨·끊김 시",
+      "sha256": "98463af5478c292cf6827174d426f3545c18641304e327599fc0f86f7149bb66"
+    },
+    {
+      "type": "pack",
+      "name": "유선랜 드라이버 (Realtek)",
+      "keyword": "gbe family|pcie gbe",
+      "file": "ax-lan.zip",
+      "sizeMB": 1,
+      "url": "https://drive.usercontent.google.com/download?id=1qI4dpGOOymY3ZB3JJhijFGufF62eMrdW&export=download&confirm=t",
+      "desc": "유선 인터넷 연결 문제 시",
+      "sha256": "2276d87472829b1236a4718ff68fc1053fcf543a0d2a29b1998058100acfdc26"
+    },
+    {
+      "type": "pack",
+      "name": "오디오 드라이버 (Voice Clarity)",
+      "keyword": "voice clarity|high definition audio",
+      "file": "ax-audio.zip",
+      "sizeMB": 9,
+      "url": "https://drive.usercontent.google.com/download?id=1qYFf9rsHoMnO_o9yc89ub4tQ43XLHxXX&export=download&confirm=t",
+      "desc": "소리 안 남·오디오 장치 인식 문제 시",
+      "sha256": "0581870990dc3ff8ea9b9bbada81c950a1450c3928bf30487cfc83eccee0761c"
+    }
+  ],
+  "NX": [
+    {
+      "type": "pack",
+      "name": "인텔 그래픽·칩셋 드라이버",
+      "keyword": "uhd graphics",
+      "version": "32.0.101.6913",
+      "file": "nx-gpu-chipset.zip",
+      "sizeMB": 929,
+      "url": "https://drive.usercontent.google.com/download?id=1Nnm0LCBG3cXFbFZ8nG8fjNuke75SXfbX&export=download&confirm=t",
+      "desc": "그래픽·칩셋·오디오 통합 — 화면·소리 문제 시 우선 설치",
+      "clean": "display",
+      "sha256": "05b0a6f438f168e8d2854136898018e16c550bc43b9f54b8592ef5bc7b79c0c7"
+    },
+    {
+      "type": "pack",
+      "name": "무선랜·블루투스 드라이버",
+      "keyword": "wi-fi|wireless|wlan|802.11|bluetooth",
+      "file": "nx-wifi-bt.zip",
+      "sizeMB": 21,
+      "url": "https://drive.usercontent.google.com/download?id=1vB0rW53AtQsnWpmJMVUmnzGyi_lJv3MX&export=download&confirm=t",
+      "desc": "와이파이·블루투스 연결 안 됨·끊김 시 (전 칩셋 지원)",
+      "sha256": "1c06d773b0ba309f90eed9d4db54bcd493c2db389526c7fe78d17232cd064dc6"
+    },
+    {
+      "type": "pack",
+      "name": "유선랜 드라이버",
+      "keyword": "gbe family|pcie gbe|motorcomm|yt6801",
+      "file": "nx-lan.zip",
+      "sizeMB": 1,
+      "url": "https://drive.usercontent.google.com/download?id=1PqGs-UBPs7EefuweBBhn6KClD3BoyopE&export=download&confirm=t",
+      "desc": "유선 인터넷 연결 문제 시",
+      "sha256": "6705352712a3a77d772a6dbade4533cc160bed66b34b4f5e890aff1287ce12b4"
+    }
+  ],
+  "RX": [
+    {
+      "type": "pack",
+      "name": "AMD 그래픽·칩셋 드라이버",
+      "keyword": "radeon",
+      "version": "31.0.21924.61",
+      "clean": "display",
+      "file": "rx-gpu-chipset.zip",
+      "sizeMB": 487,
+      "url": "https://drive.usercontent.google.com/download?id=12_42sSlrv5sXEC2EXOWHeMWA-qAFPYIH&export=download&confirm=t",
+      "desc": "그래픽·칩셋 통합 — 화면·성능 문제 시 우선 설치",
+      "sha256": "be3e89fde7fd3b18593b32ef5fbbac7b092acffa0cfa0ca784e09e5fabcc8ce4"
+    },
+    {
+      "type": "pack",
+      "name": "무선랜·블루투스 드라이버",
+      "keyword": "wi-fi|wireless|wlan|802.11|bluetooth",
+      "file": "rx-wifi-bt.zip",
+      "sizeMB": 120,
+      "url": "https://drive.usercontent.google.com/download?id=1SPErbsVLMOy6IN1f8SXlcvM7vA4ychow&export=download&confirm=t",
+      "desc": "와이파이·블루투스 연결 안 됨·끊김 시 (전 칩셋 지원)",
+      "sha256": "17b67bf69c3df1120d1ffbc493a6fdf99fa8ac427bb25b0ec00425e92fe165b5"
+    },
+    {
+      "type": "pack",
+      "name": "유선랜 드라이버 (Realtek)",
+      "keyword": "gbe family|pcie gbe",
+      "file": "rx-lan.zip",
+      "sizeMB": 8,
+      "url": "https://drive.usercontent.google.com/download?id=1wxa1jaSD73PeBi6ubx5Ql4EAKsTaBmcW&export=download&confirm=t",
+      "desc": "유선 인터넷 연결 문제 시",
+      "sha256": "a3f6d8b82f7804db3298a79975f6efc543fcf430915e5f226d50605ce07c0919"
+    },
+    {
+      "type": "pack",
+      "name": "오디오 드라이버 (Realtek)",
+      "keyword": "realtek(r) audio|realtek audio|realtek high definition|high definition audio",
+      "file": "rx-audio.zip",
+      "sizeMB": 35,
+      "url": "https://drive.usercontent.google.com/download?id=1SKDEei-5y2B1QL7fkfcPQT1_7RiGDjJ3&export=download&confirm=t",
+      "desc": "소리 안 남·오디오 장치 인식 문제 시",
+      "sha256": "85320356db423aa739e91530256bfff039b398d1cbcb2ef62be12c66f6862a59"
+    }
+  ],
+  "R7": [
+    {
+      "type": "pack",
+      "name": "AMD 그래픽·칩셋 드라이버",
+      "keyword": "radeon",
+      "version": "32.0.22029.9039",
+      "file": "r7-gpu-chipset.zip",
+      "sizeMB": 1337,
+      "url": "https://drive.usercontent.google.com/download?id=1uI6AROSCXFxqQPdGEkpTyaxhxrkVo_1y&export=download&confirm=t",
+      "desc": "그래픽·칩셋·AMD 설정 앱 통합 — 화면·성능 문제 시 우선 설치",
+      "clean": "display",
+      "sha256": "1a3b564cec97a221529a368e33986f87bdde5b432ce10293b2c3d5a7391f73c9"
+    },
+    {
+      "type": "pack",
+      "name": "무선랜·블루투스 드라이버",
+      "keyword": "wi-fi|wireless|wlan|802.11|bluetooth",
+      "file": "r7-wifi-bt.zip",
+      "sizeMB": 16,
+      "url": "https://drive.usercontent.google.com/download?id=1lvWeFSrNJGVkPuxcEFW0mtOSyAQ9cwbN&export=download&confirm=t",
+      "desc": "와이파이·블루투스 연결 안 됨·끊김 시",
+      "sha256": "3605be0717cd9e3140f43e754dcfd66ca4a0f625aa7b1f058003f9b50dbd7e9d"
+    },
+    {
+      "type": "pack",
+      "name": "유선랜 드라이버 (Realtek 8111H)",
+      "keyword": "gbe family|pcie gbe",
+      "file": "r7-lan.zip",
+      "sizeMB": 1,
+      "url": "https://drive.usercontent.google.com/download?id=1TOPIIOpJT6_WUeHSH7ANjr-Z0q5nB7ct&export=download&confirm=t",
+      "desc": "유선 인터넷 연결 문제 시",
+      "sha256": "fcc6a7b085e6e313436118dd0fa15f7454d816405ff3702e4cf890df1d4ce657"
+    },
+    {
+      "type": "pack",
+      "name": "오디오 드라이버 (Senary)",
+      "keyword": "senary|synaptics|high definition audio",
+      "file": "r7-audio.zip",
+      "sizeMB": 12,
+      "url": "https://drive.usercontent.google.com/download?id=1G4u-sQxQ0pNCkTDBoAOsLxFTulkDcsgw&export=download&confirm=t",
+      "desc": "소리 안 남·오디오 장치 인식 문제 시",
+      "sha256": "cdc663b74b09b6730f80efb7b622f9e036ef82226ea55ca660ae5b2c1705d117"
+    }
+  ],
+  "R7H": [
+    {
+      "type": "pack",
+      "name": "AMD 그래픽·칩셋 드라이버",
+      "keyword": "radeon",
+      "version": "32.0.22029.9039",
+      "file": "r7h-gpu-chipset.zip",
+      "sizeMB": 722,
+      "url": "https://drive.usercontent.google.com/download?id=1rCT_MJT6su7Ap52YE_sYlA91mPt30ExI&export=download&confirm=t",
+      "desc": "그래픽·칩셋 통합 — 화면 깜빡임·성능 문제 시 우선 설치",
+      "clean": "display",
+      "sha256": "7cab22ed1adb4782cf0bca659481eee2e201cf7c99ceec9e178c04262b8aaaa1"
+    },
+    {
+      "type": "pack",
+      "name": "무선랜·블루투스 드라이버",
+      "keyword": "wi-fi|wireless|wlan|802.11|bluetooth",
+      "file": "r7h-wifi-bt.zip",
+      "sizeMB": 180,
+      "url": "https://drive.usercontent.google.com/download?id=1zRwWwL7c5QmUS5gKFpntiH0zDkmHYCw0&export=download&confirm=t",
+      "desc": "와이파이·블루투스 연결 안 됨·끊김 시 (전 칩셋 지원)",
+      "sha256": "76fc5bd3fb8cc01e189095383bb29b5f23c7ca0f776df6ff897cddc78e496b95"
+    },
+    {
+      "type": "pack",
+      "name": "유선랜 드라이버 (Realtek 2.5G)",
+      "keyword": "2.5gbe|gbe family|pcie gbe",
+      "file": "r7h-lan.zip",
+      "sizeMB": 2,
+      "url": "https://drive.usercontent.google.com/download?id=1DZhCB0tlwtkHfI3DKbGYAY2arKHn-W-l&export=download&confirm=t",
+      "desc": "유선 인터넷 연결 문제 시",
+      "sha256": "9b43ef24416a1d3dd15d28425470620f710f04866762a047bc90d9a1a8845150"
+    },
+    {
+      "type": "pack",
+      "name": "오디오 드라이버 (Realtek)",
+      "keyword": "realtek(r) audio|realtek audio|realtek high definition",
+      "file": "r7h-audio.zip",
+      "sizeMB": 35,
+      "url": "https://drive.usercontent.google.com/download?id=1GFBb7t2txTegxdLuXED67JUjqrNfEcr7&export=download&confirm=t",
+      "desc": "소리 안 남·오디오 장치 인식 문제 시",
+      "sha256": "bdb2eb7720705fa2612969360a005feefaa379a0407d20b59a33101ae18b8eca"
+    }
+  ],
+  "_recovery": {
+    "kfont": {
+      "type": "pack",
+      "name": "한글 글꼴 패치",
+      "file": "kr-font-fix.zip",
+      "sizeMB": 10,
+      "url": "https://drive.usercontent.google.com/download?id=1_OD54dgl6Ix--cvToXe35oQuq3zFwiFH&export=download&confirm=t",
+      "desc": "글자가 □□□·1111 등으로 깨질 때 — 빠진 한글 글꼴을 설치합니다",
+      "sha256": "1e4ace248b1d3e9ec4b4c6df33792e2b1633e7d6a6446f70f3c3109928d6d4c9"
+    }
+  }
+}

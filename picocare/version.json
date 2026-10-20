@@ -1,7 +1,9 @@
 {
-  "version": "0.21.0",
-  "url": "https://github.com/picopulse/picopulse-releases/releases/download/v0.21.0/PicoCare_Setup.exe",
-  "notes": "전면 개편 - 증상별 문제 해결 14가지, 진단 리포트 보강, 새 디자인, 설치 화면 개선",
+  "kind": "version",
+  "version": "0.22.0",
+  "url": "https://github.com/picopulse/picopulse-releases/releases/download/v0.22.0/PicoCare_Setup.exe",
+  "urls": ["https://github.com/picopulse/picopulse-releases/releases/download/v0.22.0/PicoCare_Setup.exe"],
+  "notes": "문제 해결 직접 점검 안내 정비, '꺼도 다시 켜져요' 증상 추가, 리포트 보내기 개선(이메일 필수), 업데이트 보안 강화",
   "sizeMB": 34.4,
-  "sha256": "58d08c5bbf90a9d28ba0b3c5fbf800038818c2159d0d10b1224715be4218b304"
+  "sha256": "0230a0734d71629f266ef880d528008dd1ffd86f384c3131c66ef3dee342b1dd"
 }

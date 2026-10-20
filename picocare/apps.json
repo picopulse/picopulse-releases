@@ -1,0 +1,19 @@
+{
+  "kind": "apps",
+  "apps": [
+    {
+      "key": "viewer",
+      "version": "0.1.0",
+      "url": "https://github.com/picopulse/picopulse-releases/releases/download/picoviewer-v0.1.0/PicoViewer_Setup.exe",
+      "urls": [
+        "https://github.com/picopulse/picopulse-releases/releases/download/picoviewer-v0.1.0/PicoViewer_Setup.exe"
+      ],
+      "file": "PicoViewer_Setup.exe",
+      "sha256": "8a9c70dc9283340930fa02d8f3bb81ea1a239c7e5d46c8db4865495f5384f829",
+      "sizeMB": 103
+    }
+  ],
+  "hide": [
+    "voice"
+  ]
+}
