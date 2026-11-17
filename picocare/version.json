@@ -1,9 +1,9 @@
 {
   "kind": "version",
-  "version": "0.22.0",
-  "url": "https://github.com/picopulse/picopulse-releases/releases/download/v0.22.0/PicoCare_Setup.exe",
-  "urls": ["https://github.com/picopulse/picopulse-releases/releases/download/v0.22.0/PicoCare_Setup.exe"],
-  "notes": "문제 해결 직접 점검 안내 정비, '꺼도 다시 켜져요' 증상 추가, 리포트 보내기 개선(이메일 필수), 업데이트 보안 강화",
-  "sizeMB": 34.4,
-  "sha256": "0230a0734d71629f266ef880d528008dd1ffd86f384c3131c66ef3dee342b1dd"
+  "version": "0.23.0",
+  "url": "https://github.com/picopulse/picopulse-releases/releases/download/v0.23.0/PicoCare_Setup.exe",
+  "urls": ["https://github.com/picopulse/picopulse-releases/releases/download/v0.23.0/PicoCare_Setup.exe"],
+  "notes": "화면 문구 정리(확인 필요), 저장장치 판정 정확도 개선, 절전·하드웨어 오류 기록 추가",
+  "sizeMB": 34.6,
+  "sha256": "d216b5cda816d53deea40a81b5b0c9cea4ca2b4cb909f38b64b2e50865b8a5d3"
 }
