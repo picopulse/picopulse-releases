@@ -1,9 +1,9 @@
 {
   "kind": "version",
-  "version": "0.23.0",
-  "url": "https://github.com/picopulse/picopulse-releases/releases/download/v0.23.0/PicoCare_Setup.exe",
-  "urls": ["https://github.com/picopulse/picopulse-releases/releases/download/v0.23.0/PicoCare_Setup.exe"],
-  "notes": "화면 문구 정리(확인 필요), 저장장치 판정 정확도 개선, 절전·하드웨어 오류 기록 추가",
+  "version": "0.23.1",
+  "url": "https://github.com/picopulse/picopulse-releases/releases/download/v0.23.1/PicoCare_Setup.exe",
+  "urls": ["https://github.com/picopulse/picopulse-releases/releases/download/v0.23.1/PicoCare_Setup.exe"],
+  "notes": "SSD 남은 수명 표시를 뺐어요. 새 제품에서 수명이 낮게 잘못 보이던 문제를 고쳤어요.",
   "sizeMB": 34.6,
-  "sha256": "d216b5cda816d53deea40a81b5b0c9cea4ca2b4cb909f38b64b2e50865b8a5d3"
+  "sha256": "a44cb7097b2ea0e9a3811b5071af1f3a3f201caa76b6ed80730117477de8fa56"
 }
